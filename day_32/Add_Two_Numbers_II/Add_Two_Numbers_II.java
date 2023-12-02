@@ -1,5 +1,3 @@
-package day_32.java;
-
 import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.List;
